@@ -1,0 +1,8 @@
+{
+  "editor.quickSuggestions": {
+    "strings": "on"
+  },
+  "tailwindCSS.experimental.configFile": {
+    "contextApi/src/index.css": "contextApi/src/**"
+  }
+}

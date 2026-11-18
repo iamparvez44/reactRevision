@@ -10,6 +10,8 @@ const Cart = ({ data = [] }) => {
   return (
     <div className="min-h-screen bg-gray-50 px-4 py-10 sm:px-8">
 
+      <h1>Heyyyyy</h1>
+
       <div className="mx-auto max-w-6xl">
 
         {/* Heading */}
